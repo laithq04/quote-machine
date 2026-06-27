@@ -1,0 +1,13 @@
+# Operating system files
+.DS_Store          # macOS folder metadata
+Thumbs.db          # Windows thumbnail cache
+
+# Editor / IDE settings
+.vscode/           # VS Code workspace settings
+.idea/             # JetBrains (WebStorm, IntelliJ) settings
+
+# Logs and environment files (matter once you add Node, etc.)
+*.log
+.env
+.env.local
+node_modules/
